@@ -9,8 +9,7 @@ This repo includes machine learning Projects
 ## Projects
 
 - Real estate price prediction using linear regression
-- Image Classification using SVM
-- Customer Churn using linear regression
+- Customer Churn using SVM
 
 
 
